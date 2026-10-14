@@ -1,13 +1,15 @@
 ---
 title: "About"
-image: profile.jpg
+image: yixiang-profile.jpg
 about:
   template: jolla
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
+    - icon: gitHub
+      text: GitHub
+      href: https://github.com/Xyx81
+    - icon: envelope
+      text: Email
+      href: mailto:yxuu0346@student.monash.edu
 
 ---
-
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+My name is Yixiang Xu, and I am currently pursuing a Master of Business Analytics at Monash University. I am interested in using data analysis and visualisation to explore public health and business problems. I hope to communicate complex findings through clear language and accessible visuals, helping non-specialist audiences understand why the evidence matters. Outside my studies, I enjoy photography and exploring Melbourne.
